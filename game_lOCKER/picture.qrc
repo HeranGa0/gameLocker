@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="newPos">C:/Users/Administrator/Desktop/creatnew.png</file>
+    </qresource>
+</RCC>
